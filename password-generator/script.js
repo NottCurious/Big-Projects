@@ -1,3 +1,4 @@
+// Written By Deepesh Nimma
 const pwEl = document.getElementById("pw");
 const copyEl = document.getElementById("copy");
 const lenEl = document.getElementById("len");
